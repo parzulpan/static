@@ -1,0 +1,2 @@
+# static
+parzulpan static resources
